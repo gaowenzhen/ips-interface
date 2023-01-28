@@ -1,0 +1,680 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-07-29 11:39+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: de\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/views/SpaceNFT/RightMenu/index.tsx:87
+msgid "10610"
+msgstr ""
+
+#: src/views/SpaceNFT/Bind/index.tsx:142
+#: src/views/SpaceNFT/Bind/index.tsx:142
+msgid "Already bound"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:331
+#~ msgid "Available"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/SpaceNFTDetail/component/SpaceNFTDetailRightMenu/index.tsx:47
+#~ msgid "BACK TO ALL NFT"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/component/SpaceNFTRightMenu/index.tsx:81
+#~ msgid "BINDING STATE"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/Bind/index.tsx:238
+msgid "Bind"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:354
+#: src/views/Cns/Details/index.tsx:124
+msgid "Bind CNS SUCCESS"
+msgstr ""
+
+#: src/views/SpaceNFT/Bind/index.tsx:150
+msgid "Bind NFT ERROR."
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:216
+msgid "Binded NFT"
+msgstr ""
+
+#: src/routes/index.tsx:161
+msgid "Binding CNS"
+msgstr ""
+
+#: src/routes/index.tsx:148
+msgid "Binding Meta"
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:199
+msgid "Binding NFT"
+msgstr ""
+
+#: src/routes/index.tsx:119
+#: src/routes/index.tsx:120
+msgid "Binding Space NFT"
+msgstr ""
+
+#: src/routes/index.tsx:97
+msgid "Binding Virtual ball"
+msgstr ""
+
+#: src/routes/index.tsx:98
+msgid "Binding Virtual ball Binding Virtual ball Binding Virtual ball"
+msgstr ""
+
+#: src/views/Dao/index.tsx:279
+msgid "Binding on SPACE NFT"
+msgstr ""
+
+#: src/components/Header/index.tsx:181
+msgid "CNS"
+msgstr ""
+
+#: src/routes/index.tsx:130
+#: src/routes/index.tsx:131
+#~ msgid "CNS Details"
+#~ msgstr ""
+
+#: src/views/Cns/index copy.tsx:205
+#: src/views/Meta/index copy.tsx:203
+#: src/views/SpaceNFT/Manage/index copy.tsx:228
+msgid "CNS NAME"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:503
+msgid "CNS name cannot be empty"
+msgstr ""
+
+#: src/views/ConnectWallet/index.tsx:61
+msgid "CONNEXT TO WALLET"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:640
+#: src/views/Dao/index.tsx:381
+msgid "CONTROLLER"
+msgstr ""
+
+#: src/views/SpaceNFT/component/SpaceNFTRightMenu/index.tsx:77
+#~ msgid "COORDINATE"
+#~ msgstr ""
+
+#: src/hooks/useMenuList.ts:20
+msgid "Cns"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:404
+#~ msgid "Controller"
+#~ msgstr ""
+
+#: src/routes/index.tsx:81
+#: src/routes/index.tsx:82
+msgid "Coord"
+msgstr ""
+
+#: src/components/CopyBox/index.tsx:40
+msgid "Copied"
+msgstr ""
+
+#: src/components/CopyBox/index.tsx:47
+#~ msgid "Copied {text}"
+#~ msgstr ""
+
+#: src/components/CopyBox/index.tsx:45
+msgid "Copy"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:324
+#: src/views/Cns/Bind/index.tsx:431
+#: src/views/Coord/Create/index.tsx:177
+#: src/views/Meta/Create/index.tsx:399
+#: src/views/SpaceNFT/Mint/index.tsx:190
+msgid "Create"
+msgstr ""
+
+#: src/routes/index.tsx:140
+#: src/views/Cns/RightMenu/index.tsx:84
+msgid "Create CNS"
+msgstr ""
+
+#: src/routes/index.tsx:89
+#: src/routes/index.tsx:90
+#: src/views/Meta/index copy.tsx:197
+#: src/views/SpaceNFT/Manage/index copy.tsx:222
+msgid "Create Coord"
+msgstr ""
+
+#: src/views/Coord/Create/index.tsx:88
+msgid "Create Coord ERROR"
+msgstr ""
+
+#: src/views/Coord/Create/index.tsx:83
+msgid "Create Coord SUCCESS"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:225
+#: src/views/Meta/Create/index.tsx:245
+msgid "Create ERROR"
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:207
+msgid "Create Meta"
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:216
+msgid "Created Meta"
+msgstr ""
+
+#: src/routes/index.tsx:138
+#: src/routes/index.tsx:139
+#~ msgid "DOA"
+#~ msgstr ""
+
+#: src/routes/index.tsx:146
+#: src/routes/index.tsx:147
+#~ msgid "DOCS"
+#~ msgstr ""
+
+#: src/routes/index.tsx:141
+#: src/routes/index.tsx:169
+#: src/routes/index.tsx:176
+msgid "Describe in detail"
+msgstr ""
+
+#: src/routes/index.tsx:162
+msgid "Describe in detail ."
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:301
+msgid "Details"
+msgstr ""
+
+#: src/routes/index.tsx:168
+msgid "Details CNS"
+msgstr ""
+
+#: src/views/Header/index.tsx:286
+msgid "Disconnect"
+msgstr ""
+
+#: src/views/Header/index.tsx:281
+msgid "Disconnect wallet link"
+msgstr ""
+
+#: src/hooks/useMenuList.ts:21
+#~ msgid "Doa"
+#~ msgstr ""
+
+#: src/components/Header/index.tsx:180
+#: src/hooks/useMenuList.ts:26
+msgid "Docs"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:287
+#~ msgid "Domain name: {cnsName} Expires on {0}"
+#~ msgstr ""
+
+#: src/views/Dao/index.tsx:393
+msgid "EXPIRATION DAIE"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:154
+#: src/views/Cns/Bind/index.tsx:185
+msgid "Enter CNS name"
+msgstr ""
+
+#: src/views/Cns/Bind/index.tsx:221
+#~ msgid "Enter a CNS address"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/Bind/index.tsx:158
+#: src/views/SpaceNFT/Bind/index.tsx:224
+msgid "Enter a contract address"
+msgstr ""
+
+#: src/views/Home/index copy.tsx:178
+msgid "Enter search params"
+msgstr ""
+
+#: src/views/SpaceNFT/Mint/index.tsx:118
+msgid "Enter the corresponding parameters"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:395
+#: src/views/Cns/Manage/index.tsx:348
+#~ msgid "Estimated Total( Price+?). The ?  price is based at ?."
+#~ msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:589
+msgid "Estimated Total( Price+?). The ? price is based at ?."
+msgstr ""
+
+#: src/views/Cns/index copy.tsx:206
+#: src/views/Meta/index copy.tsx:204
+#: src/views/SpaceNFT/Manage/index copy.tsx:229
+msgid "Expiration time"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:747
+#: src/views/Dao/index.tsx:395
+msgid "Extend"
+msgstr ""
+
+#: src/views/SpaceNFT/Detail/component/RightMenu/index.tsx:43
+msgid "Go To Back"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:524
+msgid "If you have SPACE NFT, you can <0>bind</0> them directly."
+msgstr ""
+
+#: src/hooks/useMenuList.ts:40
+msgid "Language"
+msgstr ""
+
+#: src/views/SpaceNFT/Manage/index.tsx:155
+#~ msgid "Leased Space NFT"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/Manage/index.tsx:117
+#~ msgid "MANAGE YOUR CNS"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:262
+msgid "META"
+msgstr ""
+
+#: src/views/Home/components/auction.tsx:85
+#: src/views/SpaceNFT/Mint/index.tsx:110
+msgid "MINT ERROR"
+msgstr ""
+
+#: src/views/SpaceNFT/RightMenu/index copy.tsx:84
+msgid "MINT NFT"
+msgstr ""
+
+#: src/views/Home/components/auction.tsx:77
+#: src/views/SpaceNFT/Mint/index.tsx:104
+msgid "MINT SUCCESS"
+msgstr ""
+
+#: src/views/SpaceNFT/component/SpaceNFTRightMenu/index.tsx:71
+#~ msgid "MY SPACE NFT"
+#~ msgstr ""
+
+#: src/components/Header/popmeun.tsx:8
+#: src/routes/index.tsx:175
+msgid "Manage CNS"
+msgstr ""
+
+#: src/components/Header/popmeun.tsx:7
+msgid "Manage IPS NFT"
+msgstr ""
+
+#: src/components/Header/popmeun.tsx:6
+#: src/views/Header/index.tsx:193
+msgid "Manage Meta"
+msgstr ""
+
+#: src/routes/index.tsx:73
+msgid "Manage Meta NFT"
+msgstr ""
+
+#: src/routes/index.tsx:112
+#: src/routes/index.tsx:113
+#: src/views/Header/index.tsx:189
+msgid "Manage Space NFT"
+msgstr ""
+
+#: src/routes/index.tsx:53
+#: src/routes/index.tsx:54
+#~ msgid "Meta"
+#~ msgstr ""
+
+#: src/views/Meta/Create/index.tsx:114
+msgid "Meta KEY"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:108
+msgid "Meta Name"
+msgstr ""
+
+#: src/routes/index.tsx:149
+msgid "Meta in detail"
+msgstr ""
+
+#: src/views/SpaceNFT/Manage/index copy.tsx:112
+#: src/views/SpaceNFT/Manage/index copy.tsx:112
+msgid "Metauniverse has been created"
+msgstr ""
+
+#: src/routes/index.tsx:127
+#: src/routes/index.tsx:128
+msgid "Mint Space NFT"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:359
+#: src/views/Cns/Manage/index.tsx:312
+#~ msgid "Month"
+#~ msgstr ""
+
+#: src/hooks/useMenuList.ts:34
+msgid "My Wallet"
+msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:264
+msgid "NFT"
+msgstr ""
+
+#: src/routes/index.tsx:103
+#: src/routes/index.tsx:104
+msgid "NFT Details"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:300
+#: src/views/Cns/Bind/index.tsx:388
+#: src/views/Coord/Create/index.tsx:156
+#: src/views/Meta/Create/index.tsx:148
+msgid "NFT contract address"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:487
+msgid "Names"
+msgstr ""
+
+#: src/components/Nodata/index.tsx:17
+msgid "No Data"
+msgstr ""
+
+#: src/views/SpaceNFT/Bind/index.tsx:178
+msgid "Not NFT"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:121
+msgid "Number of auctions"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:135
+msgid "Number of wallets issued"
+msgstr ""
+
+#: src/views/SpaceNFT/SpaceNFTDetail/index.tsx:129
+#~ msgid "OFFERS"
+#~ msgstr ""
+
+#: src/views/Dao/index.tsx:375
+msgid "PARENT"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:402
+#~ msgid "Parent"
+#~ msgstr ""
+
+#: src/utils/isPending.ts:5
+msgid "Pending..."
+msgstr ""
+
+#: src/views/SpaceNFT/Mint/index.tsx:135
+msgid "Please enter Mint number"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:298
+#: src/views/Cns/Bind/index.tsx:386
+#: src/views/Coord/Create/index.tsx:154
+#: src/views/Meta/Create/index.tsx:147
+msgid "Please enter NFT contract address"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:282
+#: src/views/Coord/Create/index.tsx:138
+#: src/views/Meta/Create/index.tsx:141
+msgid "Please enter TokenID value"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:120
+msgid "Please enter in the amount of space allowed for auction in your current metauniverse"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:127
+msgid "Please enter the number of MINT meta space NFT that the wallet can contain"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:134
+msgid "Please enter the number of NFTs in the wallet's issuing meta universe"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:113
+msgid "Please enter your meta KEY"
+msgstr ""
+
+#: src/views/Meta/Create/index.tsx:107
+msgid "Please enter your meta name"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:765
+msgid "REGISTER"
+msgstr ""
+
+#: src/views/Dao/index.tsx:378
+msgid "REGISTRANT"
+msgstr ""
+
+#: src/views/Dao/index.tsx:387
+msgid "REGISTRATION DATE"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:765
+msgid "RENEW"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:301
+msgid "Register"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:252
+#~ msgid "Register CNS ERROR"
+#~ msgstr ""
+
+#: src/views/Cns/Details/index.tsx:403
+#~ msgid "Registrant"
+#~ msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:558
+#: src/views/Cns/Details/index copy.tsx:677
+msgid "Registration Period"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:580
+#: src/views/Cns/Details/index copy.tsx:696
+msgid "Registration Price to pay"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:252
+#~ msgid "Renew CNS ERROR"
+#~ msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:354
+#: src/views/Cns/Details/index.tsx:124
+msgid "Renew CNS SUCCESS"
+msgstr ""
+
+#: src/components/Header/index.tsx:179
+#: src/routes/index.tsx:57
+msgid "SPACE"
+msgstr ""
+
+#: src/views/SpaceNFT/SpaceNFTDetail/index.tsx:149
+#~ msgid "SUBDOMAINS"
+#~ msgstr ""
+
+#: src/components/HomeSearch/index.tsx:147
+#: src/components/HomeSearch/index.tsx:154
+msgid "Search"
+msgstr ""
+
+#: src/views/Home/index copy.tsx:276
+msgid "Search CNS name"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:617
+#: src/views/Dao/index.tsx:403
+msgid "Set"
+msgstr ""
+
+#: src/hooks/useMenuList.ts:14
+msgid "Space NFT"
+msgstr ""
+
+#: src/views/SpaceNFT/Manage/index.tsx:140
+#~ msgid "Staked Space NFT"
+#~ msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:301
+msgid "Subdomains"
+msgstr ""
+
+#: src/views/SpaceNFT/Manage/index.tsx:170
+#~ msgid "Subdomains Space NFT"
+#~ msgstr ""
+
+#: src/routes/index.tsx:58
+#: src/routes/index.tsx:74
+msgid "Subtitle Description Subtitle Description"
+msgstr ""
+
+#: src/views/ConnectWallet/index.tsx:42
+#: src/views/ConnectWallet/index.tsx:56
+msgid "Successfully linked Wallet"
+msgstr ""
+
+#: src/views/ConnectWallet/index.tsx:47
+#~ msgid "Switch network in chianId is 0x2a"
+#~ msgstr ""
+
+#: src/views/ConnectWallet/index.tsx:53
+msgid "Switch network in chianId is 0x5"
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:194
+#: src/views/SpaceNFT/index copy.tsx:211
+msgid "The current address has been bound to NFT."
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:203
+#: src/views/SpaceNFT/index copy.tsx:213
+msgid "The current address has create Meta"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:284
+#~ msgid "The current domain name is not registered"
+#~ msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:642
+#: src/views/Dao/index.tsx:383
+#: src/views/Dao/index.tsx:389
+msgid "Transfer"
+msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:267
+msgid "Unbound"
+msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:220
+#: src/views/SpaceNFT/Detail/index.tsx:238
+msgid "Unbound CNS name"
+msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:197
+msgid "Unbound Coord"
+msgstr ""
+
+#: src/views/Cns/Bind/index.tsx:195
+#~ msgid "Unbounded"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/Manage/index.tsx:125
+#~ msgid "Unstaked Space NFT"
+#~ msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:277
+msgid "VIEW ON :"
+msgstr ""
+
+#: src/views/SpaceNFT/SpaceNFTDetail/index.tsx:139
+#~ msgid "VISITORS"
+#~ msgstr ""
+
+#: src/views/Meta/Create/index.tsx:128
+msgid "Wallet MINT number"
+msgstr ""
+
+#: src/views/SpaceNFT/Manage/index.tsx:117
+#~ msgid "You will have to stake Plots to build on it if you purchased it on a secondary market. Unstake your？ to list it on a secondary market."
+#~ msgstr ""
+
+#: src/views/Dao/index.tsx:272
+msgid "You will have to stake Plots to build on it if you purchased it on a secondary market.Unstake your？ to list it on a secondary market."
+msgstr ""
+
+#: src/views/Dao/index.tsx:264
+msgid "Your CNS"
+msgstr ""
+
+#: src/views/Cns/Bind/index.tsx:206
+#~ msgid "Your CNS has two in total."
+#~ msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:247
+#: src/views/Cns/Bind/index.tsx:327
+msgid "Your CNS:"
+msgstr ""
+
+#: src/views/Dao/index.tsx:267
+msgid "Your Plots are automatically staked when you claim it with $？."
+msgstr ""
+
+#: src/views/SpaceNFT/Bind/index.tsx:211
+msgid "Your SPACE NFT"
+msgstr ""
+
+#: src/views/SpaceNFT/Manage/index.tsx:115
+#~ msgid "Your Space NFT"
+#~ msgstr ""
+
+#: src/views/Cns/Bind/index.tsx:358
+msgid "Your VOXELS:"
+msgstr ""
+
+#: src/views/Home/components/auction.tsx:68
+msgid "has been cast"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:324
+#: src/views/Cns/Bind/index.tsx:433
+msgid "verification"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:546
+#: src/views/Cns/Details/index copy.tsx:665
+#: src/views/Dao/index.tsx:316
+msgid "year"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:471
+#: src/views/SpaceNFT/Bind/index.tsx:205
+#: src/views/SpaceNFT/Detail/index.tsx:249
+msgid "{0}"
+msgstr ""

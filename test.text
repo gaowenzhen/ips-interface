@@ -1,0 +1,80 @@
+可以通过合约(没验证过)
+
+0x44d8b2925f78b5aae573eb40927a9223bb9cad28
+
+bind meta 测试 用合约
+0x19cf5a3f5724b05ea971d87401eb7292419e1453
+
+0x21f710e4fbce83fb19d749267543a18040222e4e
+
+
+https://mumbai.polygonscan.com/address/0x44d8b2925f78b5aae573eb40927a9223bb9cad28
+
+
+opensea 加载例子
+https://testnets.opensea.io/zh-CN/collection/ips-gwz-opensea
+
+
+
+// 找到一个地址拥有的所有符合 ERC721 的 NFT？
+
+fn 1,
+//get NFTs for current user on ETH Mainnet
+const userEthNFTs = await Moralis.Web3API.account.getNFTs();
+
+fn 2,
+//get all owners of specific NFTS
+const options = { address: "0xd...07", chain: "bsc" };
+const nftOwners = await Moralis.Web3API.token.getNFTOwners(options);
+
+
+
+fn 3
+npm install @alch/alchemy-sdk
+
+// 代码
+// Initializing the alchemy config object
+import { initializeAlchemy, getNftsForOwner } from '@alch/alchemy-sdk';
+
+const alchemy = initializeAlchemy(); // using default settings - pass in a settings object to specify your API key and network
+
+getNftsForOwner(alchemy, '0xshah.eth').then(console.log);
+
+
+https://nft.storage/  key
+gaowenzhen-ips
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEZEMDc2RTUxRjkyMUQwN2NhQjQ5MkU3Mjk2OTQ0YjdkNDE3ZmNhNjYiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY2ODE3Njg1MjQzMywibmFtZSI6Imdhb3dlbnpoZW4taXBzIn0.LKEmtnm8MF1V75qAbTM0yHEOLfNRR2CYbOBIIAe_wsQ
+
+
+pinata
+https://gateway.pinata.cloud/ipfs/
+
+
+
+
+
+====================
+
+添加坐标：
+it("createCoordinate test", async function () {
+    const tokenId = 1;
+    const [x, y, z] = [2, 50, 2];
+    const coordParams = [x, y, z, tokenId, ipsAddress];
+    const proofHexArray = (await generateProof(fromJsonFile, ballLevel, tokenId, x, y, z)).proofHex;
+
+    await waitTrans(await deployedIPSCoordinateSystem.connect(user1).createCoordinate(coordParams, tokenId, proofHexArray), "createCoordinate");
+  });
+
+
+绑定域名：
+  it("buy domain and bind cns", async function () {
+    let domain = "MyDomain";
+    let domainDuration = 3; //month
+    let metaData = JSON.stringify({ tokenPage: "https://abc.com?name=alice" }); //month
+    //buy domain
+    var price = await deployedCNSRegistrarController.price(domain, domainDuration);
+    await waitTrans(await deployedCNSRegistrarController.connect(user1).registerWithConfig(domain, domainDuration, { value: price }), "buy domain");
+
+    //bind domain
+    await waitTrans(await deployedBaseCoordinateBind.connect(user1).BindCNS(ipsAddress, 1, domain, metaData), "bind domain");
+  });

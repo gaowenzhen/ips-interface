@@ -1,0 +1,136 @@
+[{
+    "Id": 1,
+	"value": 1,
+	"label": "Layer 1 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 2,
+	"value": 14,
+	"label": "Layer 2 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 3,
+	"value": 50,
+	"label": "Layer 3 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 4,
+	"value": 122,
+	"label": "Layer 4 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 5,
+	"value": 230,
+	"label": "Layer 5 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 6,
+	"value": 362,
+	"label": "Layer 6 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 7,
+	"value": 530,
+	"label": "Layer 7 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 8,
+	"value": 734,
+	"label": "Layer 8 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 9,
+	"value": 962,
+	"label": "Layer 9 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 10,
+	"value": 1226,
+	"label": "Layer 10 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 11,
+	"value": 1526,
+	"label": "Layer 11 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 12,
+	"value": 1850,
+	"label": "Layer 12 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 13,
+	"value": 2210,
+	"label": "Layer 13 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 14,
+	"value": 2606,
+	"label": "Layer 14 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 15,
+	"value": 3026,
+	"label": "Layer 15 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 16,
+	"value": 3482,
+	"label": "Layer 16 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 17,
+	"value": 3974,
+	"label": "Layer 17 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 18,
+	"value": 4490,
+	"label": "Layer 18 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 19,
+	"value": 5042,
+	"label": "Layer 19 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 20,
+	"value": 5630,
+	"label": "Layer 20 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 21,
+	"value": 6242,
+	"label": "Layer 21 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 22,
+	"value": 6890,
+	"label": "Layer 22 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 23,
+	"value": 7574,
+	"label": "Layer 23 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 24,
+	"value": 8282,
+	"label": "Layer 24 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 25,
+	"value": 9026,
+	"label": "Layer 25 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 26,
+	"value": 9806,
+	"label": "Layer 26 Virtual sphere",
+	"isSel": false
+  },{
+    "Id": 27,
+	"value": 10610,
+	"label": "Layer 27 Virtual sphere",
+	"isSel": false
+  }]

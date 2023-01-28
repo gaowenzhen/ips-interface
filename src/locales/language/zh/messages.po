@@ -1,0 +1,683 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-04-24 14:39+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: zh\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/views/SpaceNFT/RightMenu/index.tsx:87
+msgid "10610"
+msgstr ""
+
+#: src/views/SpaceNFT/Bind/index.tsx:142
+#: src/views/SpaceNFT/Bind/index.tsx:142
+msgid "Already bound"
+msgstr "已經綁定過"
+
+#: src/views/Cns/Details/index.tsx:331
+#~ msgid "Available"
+#~ msgstr "可獲得的"
+
+#: src/views/SpaceNFT/SpaceNFTDetail/component/SpaceNFTDetailRightMenu/index.tsx:47
+#~ msgid "BACK TO ALL NFT"
+#~ msgstr "返回全部NFT"
+
+#: src/views/SpaceNFT/component/SpaceNFTRightMenu/index.tsx:81
+#~ msgid "BINDING STATE"
+#~ msgstr "綁定狀態"
+
+#: src/views/SpaceNFT/Bind/index.tsx:238
+msgid "Bind"
+msgstr "綁定"
+
+#: src/views/Cns/Details/index copy.tsx:354
+#: src/views/Cns/Details/index.tsx:124
+msgid "Bind CNS SUCCESS"
+msgstr "綁定CNS成功"
+
+#: src/views/SpaceNFT/Bind/index.tsx:150
+msgid "Bind NFT ERROR."
+msgstr "綁定NFT失敗。"
+
+#: src/views/SpaceNFT/index copy.tsx:216
+msgid "Binded NFT"
+msgstr "綁定NFT"
+
+#: src/routes/index.tsx:161
+msgid "Binding CNS"
+msgstr "綁定MNS"
+
+#: src/routes/index.tsx:148
+msgid "Binding Meta"
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:199
+msgid "Binding NFT"
+msgstr "綁定NFT"
+
+#: src/routes/index.tsx:119
+#: src/routes/index.tsx:120
+msgid "Binding Space NFT"
+msgstr "綁定Space NFT"
+
+#: src/routes/index.tsx:97
+msgid "Binding Virtual ball"
+msgstr ""
+
+#: src/routes/index.tsx:98
+msgid "Binding Virtual ball Binding Virtual ball Binding Virtual ball"
+msgstr ""
+
+#: src/views/Dao/index.tsx:279
+msgid "Binding on SPACE NFT"
+msgstr "綁定空間上的NFT"
+
+#: src/components/Header/index.tsx:181
+msgid "CNS"
+msgstr "域名"
+
+#: src/routes/index.tsx:130
+#: src/routes/index.tsx:131
+#~ msgid "CNS Details"
+#~ msgstr "CNS詳細資訊"
+
+#: src/views/Cns/index copy.tsx:205
+#: src/views/Meta/index copy.tsx:203
+#: src/views/SpaceNFT/Manage/index copy.tsx:228
+msgid "CNS NAME"
+msgstr "CNS名稱"
+
+#: src/views/Cns/Details/index copy.tsx:503
+msgid "CNS name cannot be empty"
+msgstr "CNS名稱不能為空”"
+
+#: src/views/ConnectWallet/index.tsx:61
+msgid "CONNEXT TO WALLET"
+msgstr "連接到錢包"
+
+#: src/views/Cns/Details/index copy.tsx:640
+#: src/views/Dao/index.tsx:381
+msgid "CONTROLLER"
+msgstr "控制器"
+
+#: src/views/SpaceNFT/component/SpaceNFTRightMenu/index.tsx:77
+#~ msgid "COORDINATE"
+#~ msgstr "座標"
+
+#: src/hooks/useMenuList.ts:20
+msgid "Cns"
+msgstr "Cns"
+
+#: src/views/Cns/Details/index.tsx:404
+#~ msgid "Controller"
+#~ msgstr "控制器"
+
+#: src/routes/index.tsx:81
+#: src/routes/index.tsx:82
+msgid "Coord"
+msgstr "座標"
+
+#: src/components/CopyBox/index.tsx:40
+msgid "Copied"
+msgstr "複製成功"
+
+#: src/components/CopyBox/index.tsx:47
+#~ msgid "Copied {text}"
+#~ msgstr "已複製"
+
+#: src/components/CopyBox/index.tsx:45
+msgid "Copy"
+msgstr "複製"
+
+#: src/views/Cns/Bind/index copy.tsx:324
+#: src/views/Cns/Bind/index.tsx:431
+#: src/views/Coord/Create/index.tsx:177
+#: src/views/Meta/Create/index.tsx:399
+#: src/views/SpaceNFT/Mint/index.tsx:190
+msgid "Create"
+msgstr "創建"
+
+#: src/routes/index.tsx:140
+#: src/views/Cns/RightMenu/index.tsx:84
+msgid "Create CNS"
+msgstr ""
+
+#: src/routes/index.tsx:89
+#: src/routes/index.tsx:90
+#: src/views/Meta/index copy.tsx:197
+#: src/views/SpaceNFT/Manage/index copy.tsx:222
+msgid "Create Coord"
+msgstr "創建座標"
+
+#: src/views/Coord/Create/index.tsx:88
+msgid "Create Coord ERROR"
+msgstr "創建座標失敗"
+
+#: src/views/Coord/Create/index.tsx:83
+msgid "Create Coord SUCCESS"
+msgstr "創建座標失敗"
+
+#: src/views/Meta/Create/index.tsx:225
+#: src/views/Meta/Create/index.tsx:245
+msgid "Create ERROR"
+msgstr "創建失敗"
+
+#: src/views/SpaceNFT/index copy.tsx:207
+msgid "Create Meta"
+msgstr "創建元宇宙"
+
+#: src/views/SpaceNFT/index copy.tsx:216
+msgid "Created Meta"
+msgstr "已經創建元宇宙"
+
+#: src/routes/index.tsx:138
+#: src/routes/index.tsx:139
+#~ msgid "DOA"
+#~ msgstr "DOA"
+
+#: src/routes/index.tsx:146
+#: src/routes/index.tsx:147
+#~ msgid "DOCS"
+#~ msgstr "檔案"
+
+#: src/routes/index.tsx:141
+#: src/routes/index.tsx:169
+#: src/routes/index.tsx:176
+msgid "Describe in detail"
+msgstr ""
+
+#: src/routes/index.tsx:162
+msgid "Describe in detail ."
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:301
+msgid "Details"
+msgstr "詳情"
+
+#: src/routes/index.tsx:168
+msgid "Details CNS"
+msgstr ""
+
+#: src/views/Header/index.tsx:286
+msgid "Disconnect"
+msgstr "斷開錢包"
+
+#: src/views/Header/index.tsx:281
+msgid "Disconnect wallet link"
+msgstr "斷開錢包連結"
+
+#: src/hooks/useMenuList.ts:21
+#~ msgid "Doa"
+#~ msgstr "Doa"
+
+#: src/components/Header/index.tsx:180
+#: src/hooks/useMenuList.ts:26
+msgid "Docs"
+msgstr "檔案"
+
+#: src/views/Cns/Details/index.tsx:287
+#~ msgid "Domain name: {cnsName} Expires on {0}"
+#~ msgstr "功能變數名稱：｛cnsName｝在｛0｝過期"
+
+#: src/views/Dao/index.tsx:393
+msgid "EXPIRATION DAIE"
+msgstr "到期日DAIE"
+
+#: src/views/Cns/Bind/index copy.tsx:154
+#: src/views/Cns/Bind/index.tsx:185
+msgid "Enter CNS name"
+msgstr ""
+
+#: src/views/Cns/Bind/index.tsx:221
+#~ msgid "Enter a CNS address"
+#~ msgstr "輸入MNS地址"
+
+#: src/views/SpaceNFT/Bind/index.tsx:158
+#: src/views/SpaceNFT/Bind/index.tsx:224
+msgid "Enter a contract address"
+msgstr "輸入合約地址"
+
+#: src/views/Home/index copy.tsx:178
+msgid "Enter search params"
+msgstr "輸入蒐索參數"
+
+#: src/views/SpaceNFT/Mint/index.tsx:118
+msgid "Enter the corresponding parameters"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:395
+#: src/views/Cns/Manage/index.tsx:348
+#~ msgid "Estimated Total( Price+?). The ?  price is based at ?."
+#~ msgstr "估計總數（價格+？）。 這個 價格以？為基礎？。"
+
+#: src/views/Cns/Details/index copy.tsx:589
+msgid "Estimated Total( Price+?). The ? price is based at ?."
+msgstr ""
+
+#: src/views/Cns/index copy.tsx:206
+#: src/views/Meta/index copy.tsx:204
+#: src/views/SpaceNFT/Manage/index copy.tsx:229
+msgid "Expiration time"
+msgstr "失效時間"
+
+#: src/views/Cns/Details/index copy.tsx:747
+#: src/views/Dao/index.tsx:395
+msgid "Extend"
+msgstr "延伸"
+
+#: src/views/SpaceNFT/Detail/component/RightMenu/index.tsx:43
+msgid "Go To Back"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:524
+msgid "If you have SPACE NFT, you can <0>bind</0> them directly."
+msgstr "如果你有空間NFTNFT，你可以直接 <0>绑定</0> 它们。"
+
+#: src/hooks/useMenuList.ts:40
+msgid "Language"
+msgstr "語言"
+
+#: src/views/SpaceNFT/Manage/index.tsx:155
+#~ msgid "Leased Space NFT"
+#~ msgstr "租用空間NFT"
+
+#: src/views/SpaceNFT/Manage/index.tsx:117
+#~ msgid "MANAGE YOUR CNS"
+#~ msgstr "管理您的MNS"
+
+#: src/views/SpaceNFT/Detail/index.tsx:262
+msgid "META"
+msgstr ""
+
+#: src/views/Home/components/auction.tsx:85
+#: src/views/SpaceNFT/Mint/index.tsx:110
+msgid "MINT ERROR"
+msgstr "MINT失敗"
+
+#: src/views/SpaceNFT/RightMenu/index copy.tsx:84
+msgid "MINT NFT"
+msgstr ""
+
+#: src/views/Home/components/auction.tsx:77
+#: src/views/SpaceNFT/Mint/index.tsx:104
+msgid "MINT SUCCESS"
+msgstr "mint成功"
+
+#: src/views/SpaceNFT/component/SpaceNFTRightMenu/index.tsx:71
+#~ msgid "MY SPACE NFT"
+#~ msgstr "我的空間NFT"
+
+#: src/components/Header/popmeun.tsx:8
+#: src/routes/index.tsx:175
+msgid "Manage CNS"
+msgstr "管理域名"
+
+#: src/components/Header/popmeun.tsx:7
+msgid "Manage IPS NFT"
+msgstr "管理空間NFT"
+
+#: src/components/Header/popmeun.tsx:6
+#: src/views/Header/index.tsx:193
+msgid "Manage Meta"
+msgstr "管理元宇宙"
+
+#: src/routes/index.tsx:73
+msgid "Manage Meta NFT"
+msgstr ""
+
+#: src/routes/index.tsx:112
+#: src/routes/index.tsx:113
+#: src/views/Header/index.tsx:189
+msgid "Manage Space NFT"
+msgstr ""
+
+#: src/routes/index.tsx:53
+#: src/routes/index.tsx:54
+#~ msgid "Meta"
+#~ msgstr "元宇宙"
+
+#: src/views/Meta/Create/index.tsx:114
+msgid "Meta KEY"
+msgstr "元宇宙鍵"
+
+#: src/views/Meta/Create/index.tsx:108
+msgid "Meta Name"
+msgstr "元宇宙名稱"
+
+#: src/routes/index.tsx:149
+msgid "Meta in detail"
+msgstr ""
+
+#: src/views/SpaceNFT/Manage/index copy.tsx:112
+#: src/views/SpaceNFT/Manage/index copy.tsx:112
+msgid "Metauniverse has been created"
+msgstr "已經創建元宇宙"
+
+#: src/routes/index.tsx:127
+#: src/routes/index.tsx:128
+msgid "Mint Space NFT"
+msgstr ""
+
+#: src/views/Cns/Details/index.tsx:359
+#: src/views/Cns/Manage/index.tsx:312
+#~ msgid "Month"
+#~ msgstr "月"
+
+#: src/hooks/useMenuList.ts:34
+msgid "My Wallet"
+msgstr "我的錢包"
+
+#: src/views/SpaceNFT/Detail/index.tsx:264
+msgid "NFT"
+msgstr ""
+
+#: src/routes/index.tsx:103
+#: src/routes/index.tsx:104
+msgid "NFT Details"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:300
+#: src/views/Cns/Bind/index.tsx:388
+#: src/views/Coord/Create/index.tsx:156
+#: src/views/Meta/Create/index.tsx:148
+msgid "NFT contract address"
+msgstr "NFT合约地址"
+
+#: src/views/Cns/Details/index copy.tsx:487
+msgid "Names"
+msgstr "名稱"
+
+#: src/components/Nodata/index.tsx:17
+msgid "No Data"
+msgstr "沒有數據"
+
+#: src/views/SpaceNFT/Bind/index.tsx:178
+msgid "Not NFT"
+msgstr "不是NFT"
+
+#: src/views/Meta/Create/index.tsx:121
+msgid "Number of auctions"
+msgstr "拍賣次數"
+
+#: src/views/Meta/Create/index.tsx:135
+msgid "Number of wallets issued"
+msgstr "發行的錢包數量"
+
+#: src/views/SpaceNFT/SpaceNFTDetail/index.tsx:129
+#~ msgid "OFFERS"
+#~ msgstr "提供"
+
+#: src/views/Dao/index.tsx:375
+msgid "PARENT"
+msgstr "起源"
+
+#: src/views/Cns/Details/index.tsx:402
+#~ msgid "Parent"
+#~ msgstr "上級"
+
+#: src/utils/isPending.ts:5
+msgid "Pending..."
+msgstr "進行中..."
+
+#: src/views/SpaceNFT/Mint/index.tsx:135
+msgid "Please enter Mint number"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:298
+#: src/views/Cns/Bind/index.tsx:386
+#: src/views/Coord/Create/index.tsx:154
+#: src/views/Meta/Create/index.tsx:147
+msgid "Please enter NFT contract address"
+msgstr "請輸入NFT合约地址"
+
+#: src/views/Cns/Bind/index copy.tsx:282
+#: src/views/Coord/Create/index.tsx:138
+#: src/views/Meta/Create/index.tsx:141
+msgid "Please enter TokenID value"
+msgstr "請輸入TokenID值"
+
+#: src/views/Meta/Create/index.tsx:120
+msgid "Please enter in the amount of space allowed for auction in your current metauniverse"
+msgstr "請輸入當前元宇宙中允許拍賣的空間量"
+
+#: src/views/Meta/Create/index.tsx:127
+msgid "Please enter the number of MINT meta space NFT that the wallet can contain"
+msgstr "請輸入錢包可以包含的MINT元空間NFT的數量"
+
+#: src/views/Meta/Create/index.tsx:134
+msgid "Please enter the number of NFTs in the wallet's issuing meta universe"
+msgstr "請輸入錢包發行元宇宙中的NFT數量"
+
+#: src/views/Meta/Create/index.tsx:113
+msgid "Please enter your meta KEY"
+msgstr "請輸入元宇宙鍵值"
+
+#: src/views/Meta/Create/index.tsx:107
+msgid "Please enter your meta name"
+msgstr "請輸入您的元宇宙名稱"
+
+#: src/views/Cns/Details/index copy.tsx:765
+msgid "REGISTER"
+msgstr "注册"
+
+#: src/views/Dao/index.tsx:378
+msgid "REGISTRANT"
+msgstr "注册人"
+
+#: src/views/Dao/index.tsx:387
+msgid "REGISTRATION DATE"
+msgstr "注册日期"
+
+#: src/views/Cns/Details/index copy.tsx:765
+msgid "RENEW"
+msgstr "續費"
+
+#: src/views/Cns/Details/index copy.tsx:301
+msgid "Register"
+msgstr "注册"
+
+#: src/views/Cns/Details/index.tsx:252
+#~ msgid "Register CNS ERROR"
+#~ msgstr "注册CNS失敗"
+
+#: src/views/Cns/Details/index.tsx:403
+#~ msgid "Registrant"
+#~ msgstr "注册人"
+
+#: src/views/Cns/Details/index copy.tsx:558
+#: src/views/Cns/Details/index copy.tsx:677
+msgid "Registration Period"
+msgstr "注册期限"
+
+#: src/views/Cns/Details/index copy.tsx:580
+#: src/views/Cns/Details/index copy.tsx:696
+msgid "Registration Price to pay"
+msgstr "註冊費"
+
+#: src/views/Cns/Details/index.tsx:252
+#~ msgid "Renew CNS ERROR"
+#~ msgstr "續費CNS失敗"
+
+#: src/views/Cns/Details/index copy.tsx:354
+#: src/views/Cns/Details/index.tsx:124
+msgid "Renew CNS SUCCESS"
+msgstr "CNS續費成功"
+
+#: src/components/Header/index.tsx:179
+#: src/routes/index.tsx:57
+msgid "SPACE"
+msgstr "空間"
+
+#: src/views/SpaceNFT/SpaceNFTDetail/index.tsx:149
+#~ msgid "SUBDOMAINS"
+#~ msgstr "子域"
+
+#: src/components/HomeSearch/index.tsx:147
+#: src/components/HomeSearch/index.tsx:154
+msgid "Search"
+msgstr "蒐索"
+
+#: src/views/Home/index copy.tsx:276
+msgid "Search CNS name"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:617
+#: src/views/Dao/index.tsx:403
+msgid "Set"
+msgstr "添加"
+
+#: src/hooks/useMenuList.ts:14
+msgid "Space NFT"
+msgstr "空間NFT"
+
+#: src/views/SpaceNFT/Manage/index.tsx:140
+#~ msgid "Staked Space NFT"
+#~ msgstr "固定空間NFT"
+
+#: src/views/Cns/Details/index copy.tsx:301
+msgid "Subdomains"
+msgstr "子域"
+
+#: src/views/SpaceNFT/Manage/index.tsx:170
+#~ msgid "Subdomains Space NFT"
+#~ msgstr "子域空間NFT"
+
+#: src/routes/index.tsx:58
+#: src/routes/index.tsx:74
+msgid "Subtitle Description Subtitle Description"
+msgstr ""
+
+#: src/views/ConnectWallet/index.tsx:42
+#: src/views/ConnectWallet/index.tsx:56
+msgid "Successfully linked Wallet"
+msgstr "已成功連結錢包"
+
+#: src/views/ConnectWallet/index.tsx:47
+#~ msgid "Switch network in chianId is 0x2a"
+#~ msgstr "切換ChainId為0x2a網絡"
+
+#: src/views/ConnectWallet/index.tsx:53
+msgid "Switch network in chianId is 0x5"
+msgstr ""
+
+#: src/views/SpaceNFT/index copy.tsx:194
+#: src/views/SpaceNFT/index copy.tsx:211
+msgid "The current address has been bound to NFT."
+msgstr "當前地址已綁定到NFT."
+
+#: src/views/SpaceNFT/index copy.tsx:203
+#: src/views/SpaceNFT/index copy.tsx:213
+msgid "The current address has create Meta"
+msgstr "當前地址已創建元宇宙"
+
+#: src/views/Cns/Details/index.tsx:284
+#~ msgid "The current domain name is not registered"
+#~ msgstr "當前功能變數名稱未注册"
+
+#: src/views/Cns/Details/index copy.tsx:642
+#: src/views/Dao/index.tsx:383
+#: src/views/Dao/index.tsx:389
+msgid "Transfer"
+msgstr "轉移"
+
+#: src/views/SpaceNFT/Detail/index.tsx:267
+msgid "Unbound"
+msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:220
+#: src/views/SpaceNFT/Detail/index.tsx:238
+msgid "Unbound CNS name"
+msgstr ""
+
+#: src/views/SpaceNFT/Detail/index.tsx:197
+msgid "Unbound Coord"
+msgstr ""
+
+#: src/views/Cns/Bind/index.tsx:195
+#~ msgid "Unbounded"
+#~ msgstr "無限的"
+
+#: src/views/SpaceNFT/Manage/index.tsx:125
+#~ msgid "Unstaked Space NFT"
+#~ msgstr "沒有質押空間NFT"
+
+#: src/views/SpaceNFT/Detail/index.tsx:277
+msgid "VIEW ON :"
+msgstr "查看："
+
+#: src/views/SpaceNFT/SpaceNFTDetail/index.tsx:139
+#~ msgid "VISITORS"
+#~ msgstr "訪客"
+
+#: src/views/Meta/Create/index.tsx:128
+msgid "Wallet MINT number"
+msgstr "錢包mint數量"
+
+#: src/views/SpaceNFT/Manage/index.tsx:117
+#~ msgid "You will have to stake Plots to build on it if you purchased it on a secondary market. Unstake your？ to list it on a secondary market."
+#~ msgstr "如果你在次級市場上購買了它，你將不得不在它的基礎上投資。 解開你的 在次級市場上市。"
+
+#: src/views/Dao/index.tsx:272
+msgid "You will have to stake Plots to build on it if you purchased it on a secondary market.Unstake your？ to list it on a secondary market."
+msgstr "如果你在次級市場上購買了它，你將不得不在它的基礎上投資。 解開你的 在次級市場上市。"
+
+#: src/views/Dao/index.tsx:264
+msgid "Your CNS"
+msgstr "您的MNS"
+
+#: src/views/Cns/Bind/index.tsx:206
+#~ msgid "Your CNS has two in total."
+#~ msgstr "您的MNS總共有兩個。"
+
+#: src/views/Cns/Bind/index copy.tsx:247
+#: src/views/Cns/Bind/index.tsx:327
+msgid "Your CNS:"
+msgstr "您的MNS："
+
+#: src/views/Dao/index.tsx:267
+msgid "Your Plots are automatically staked when you claim it with $？."
+msgstr "當您使用$?索賠時，您的繪圖將自動下標."
+
+#: src/views/SpaceNFT/Bind/index.tsx:211
+msgid "Your SPACE NFT"
+msgstr "你的空間NFT"
+
+#: src/views/SpaceNFT/Manage/index.tsx:115
+#~ msgid "Your Space NFT"
+#~ msgstr "你的空間NFT"
+
+#: src/views/Cns/Bind/index.tsx:358
+msgid "Your VOXELS:"
+msgstr ""
+
+#: src/views/Home/components/auction.tsx:68
+msgid "has been cast"
+msgstr ""
+
+#: src/views/Cns/Bind/index copy.tsx:324
+#: src/views/Cns/Bind/index.tsx:433
+msgid "verification"
+msgstr ""
+
+#: src/views/Cns/Details/index copy.tsx:546
+#: src/views/Cns/Details/index copy.tsx:665
+#: src/views/Dao/index.tsx:316
+msgid "year"
+msgstr "年"
+
+#: src/views/Cns/Details/index copy.tsx:471
+#: src/views/SpaceNFT/Bind/index.tsx:205
+#: src/views/SpaceNFT/Detail/index.tsx:249
+msgid "{0}"
+msgstr "{0}"
+
+msgid "Login to wallet"
+msgstr "未連接錢包"

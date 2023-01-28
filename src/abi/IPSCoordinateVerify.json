@@ -1,0 +1,241 @@
+[
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "previousOwner",
+        "type": "address"
+      },
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "newOwner",
+        "type": "address"
+      }
+    ],
+    "name": "OwnershipTransferred",
+    "type": "event"
+  },
+  {
+    "inputs": [],
+    "name": "allBallLevel",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "resultSize_",
+        "type": "uint256"
+      },
+      {
+        "components": [
+          {
+            "internalType": "uint256",
+            "name": "ballLevel",
+            "type": "uint256"
+          },
+          {
+            "internalType": "bytes32",
+            "name": "merkleRootHash",
+            "type": "bytes32"
+          },
+          {
+            "internalType": "uint256",
+            "name": "totalSupplyMax",
+            "type": "uint256"
+          },
+          {
+            "internalType": "string",
+            "name": "baseURl",
+            "type": "string"
+          }
+        ],
+        "internalType": "struct IPSCoordinateVerify.CoordinateLevelDetail[]",
+        "name": "levelList_",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "_ballLevel",
+        "type": "uint256"
+      }
+    ],
+    "name": "getCoordinateLevelDetailByLevel",
+    "outputs": [
+      {
+        "components": [
+          {
+            "internalType": "uint256",
+            "name": "ballLevel",
+            "type": "uint256"
+          },
+          {
+            "internalType": "bytes32",
+            "name": "merkleRootHash",
+            "type": "bytes32"
+          },
+          {
+            "internalType": "uint256",
+            "name": "totalSupplyMax",
+            "type": "uint256"
+          },
+          {
+            "internalType": "string",
+            "name": "baseURl",
+            "type": "string"
+          }
+        ],
+        "internalType": "struct IPSCoordinateVerify.CoordinateLevelDetail",
+        "name": "_detail",
+        "type": "tuple"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "name": "levelDetailOf",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "ballLevel",
+        "type": "uint256"
+      },
+      {
+        "internalType": "bytes32",
+        "name": "merkleRootHash",
+        "type": "bytes32"
+      },
+      {
+        "internalType": "uint256",
+        "name": "totalSupplyMax",
+        "type": "uint256"
+      },
+      {
+        "internalType": "string",
+        "name": "baseURl",
+        "type": "string"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "owner",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "renounceOwnership",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "_ballLevel",
+        "type": "uint256"
+      },
+      {
+        "internalType": "bytes32",
+        "name": "_merkleRootHash",
+        "type": "bytes32"
+      },
+      {
+        "internalType": "uint256",
+        "name": "_totalSupplyMax",
+        "type": "uint256"
+      },
+      {
+        "internalType": "string",
+        "name": "_baseUrl",
+        "type": "string"
+      }
+    ],
+    "name": "setBallLevel",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "newOwner",
+        "type": "address"
+      }
+    ],
+    "name": "transferOwnership",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "_ballLevel",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "_tokenId",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "_x",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "_y",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "_z",
+        "type": "uint256"
+      },
+      {
+        "internalType": "bytes32[]",
+        "name": "proof",
+        "type": "bytes32[]"
+      }
+    ],
+    "name": "verifyCoordinateProof",
+    "outputs": [
+      {
+        "internalType": "bool",
+        "name": "pass_",
+        "type": "bool"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
